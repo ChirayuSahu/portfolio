@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/travelWebsiteDesign",
+      "destination": "https://www.figma.com/design/3d6OmNATozEgdgdxnb8GKI/Travel-Website?node-id=1-2&t=kjukRgjnfniYfzDe-1",  // Replace with your target URL
+      "permanent": true
+    }
+  ]
+}
